@@ -1,0 +1,106 @@
+.header-1{
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    align-items: center;
+    font-size: 40px;
+}
+
+.div-line{
+
+    width:200px;
+    background:black;
+}
+
+
+
+body{
+
+    background-image: linear-gradient(50deg,rgb(7, 45, 7),rgb(11, 212, 11));
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.button-2{
+
+    border-radius: 25px;
+    color: black;
+    background-color: rgb(0, 255, 76);
+    outline: black;
+    padding: 50px 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.button-1{
+
+    border-radius: 25px;
+    color: black;
+    background-color: rgb(0, 255, 76);
+    outline: black;
+    padding: 50px 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    cursor: pointer;
+    transition: 1s;
+
+
+}
+
+
+.button-1:hover {
+
+    padding: 40px 40px;
+    box-shadow: 12px;
+    background-color: red;
+    
+}
+
+.p-1{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 17px;
+}
+
+
+
+.button-2:hover {
+
+padding: 25px 25px;
+
+}
+
+
+
+ 
+.link-s{
+
+    color: rgb(0, 255, 0);  
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    font-size: 25px ;
+    
+}
+
+.sticky-nav{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    display: flex;
+    width: 100%;
+    background-color: darkgreen;
+    height: 50px;
+}
+.img-1{
+    border-radius: 25px;
+    transition: 1s;
+    margin: 100px;
+}
+
+.img-1:hover{
+    width: 125px;
+    height: 125px;
+   
+}
+
